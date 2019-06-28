@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## 欢迎
 
-You can use the [editor on GitHub](https://github.com/jameslei1024/jameslei1024.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+欢迎来到我的个人博客**宇宙飞船**。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+我会在这里发布一些关于以下内容的技术博客
 
-### Markdown
+- 计算机视觉
+- 深度学习
+- 机器学习
+- 其他
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 关于我
 
-```markdown
-Syntax highlighted code block
+香港中文大学(深圳) 数据科学理学硕士在读
 
-# Header 1
-## Header 2
-### Header 3
+## Welcome
 
-- Bulleted
-- List
+Welcome to my personal blog **Spaceship**.
 
-1. Numbered
-2. List
+I will post some technical blog here including:
 
-**Bold** and _Italic_ and `Code` text
+- Computer Vision (CV)
+- Deep Learning (DL)
+- Machine Learning (ML)
+- General (G)
 
-[Link](url) and ![Image](src)
-```
+## About Me
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jameslei1024/jameslei1024.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+MScDS@CUHKSZ
